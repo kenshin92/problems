@@ -1,0 +1,5 @@
+# Clang format for C++ and .proto source code.
+BasedOnStyle: Google
+DerivePointerAlignment: false
+PointerAlignment: Left
+Standard: Cpp11

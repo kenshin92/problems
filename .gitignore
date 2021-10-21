@@ -1,0 +1,22 @@
+# Bazel directories
+/bazel-*
+
+.DS_Store
+
+# Python intermediate files
+__pycache__
+*.pyc
+.idea
+
+# Lyx temp file
+*.lyx#
+*.lyx~
+
+# vs code temp files
+.vscode
+
+# bazelrc
+.bazelrc
+
+# experiments
+exp
